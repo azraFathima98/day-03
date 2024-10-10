@@ -1,0 +1,28 @@
+.background{
+    background-color: rgb(223, 223, 28);
+}
+h1{
+    background-color: rgb(81, 188, 188);
+    text-align: center;
+    color: white;
+}
+p{
+    background-color: rgb(81, 188, 188);
+    text-align: center;
+    color: white;
+    
+}
+body{ 
+    background-image: url(img/sea.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+#p{
+    text-align: center;
+    background-color: aquamarine;
+    border: 5px solid rgb(240, 153, 153) ;
+    border-radius: 20px;
+}
